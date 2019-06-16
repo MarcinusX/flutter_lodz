@@ -1,0 +1,10 @@
+[
+  {
+    "family": "RobotoMono",
+    "fonts": [
+      {
+        "asset": "fonts/Roboto/Roboto-Regular.ttf"
+      }
+    ]
+  }
+]
